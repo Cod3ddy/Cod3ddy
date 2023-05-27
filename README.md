@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Cod3ddy&theme=vue-dark)](https://git.io/streak-stats)
-
 <!--
 **Cod3ddy/Cod3ddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Cod3ddy&theme=buefy-dark)](https://git.io/streak-stats)
