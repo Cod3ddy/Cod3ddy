@@ -3,6 +3,8 @@
 - ⭐ passionate about backend, devops, GOpher.
 - 📫 How to reach me email edwardchirwa07@gmail.com / edwardchirwa@dyuni.ac.mw, phone: +265 886 392 814
 
+<a href="https://app.daily.dev/cod3ddy"><img src="https://api.daily.dev/devcards/v2/5oD655HmLaUfHdH7xzS64.png?type=wide&r=3d5" width="652" alt="Edward Chirwa's Dev Card"/></a>
+
 -------------------------------------------------------------------------------------------------------------------------------------
 
 ## QUOTE OF THE DAY
