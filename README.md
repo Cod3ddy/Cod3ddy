@@ -1,5 +1,5 @@
 # 🪐
-- 👋 Hi, I’m @Cod3ddy
+- 👋 Hi, I’m @Cod3ddy.
 - ⭐ passionate about backend, devops, GOpher.
 - 📫 How to reach me email edwardchirwa07@gmail.com / edwardchirwa@dyuni.ac.mw, phone: +265 886 392 814
 
